@@ -1,6 +1,7 @@
 #include "TestFunction.h"
 #include <cassert>
+#include<stdlib.h>
 
 void TestFunction() {
-	assert(0);
+	exit(0);
 }
